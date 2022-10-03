@@ -1,5 +1,5 @@
 """
-Advanced Fitting Program
+ELF Fitting Program
 To provide the best fitting of Energy Loss Function (ELF)
 Using machine learning to automatically to identify and fit the curve
 fitting the first model (negative oscillator added) 0823
